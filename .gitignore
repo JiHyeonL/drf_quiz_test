@@ -1,0 +1,9 @@
+__pycache__/
+*.ppy[cod]
+
+.Python
+venv/
+
+db.sqlite3
+.DS_Store
+
